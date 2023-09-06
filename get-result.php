@@ -10,7 +10,7 @@ if (isset($_GET['my-name']))
 ?>
 <p>The Value Sent is: </p>
 <?php
-  echo $_GET['mmy-name'];
+  echo $_GET['my-name'];
 }
 else
 {
