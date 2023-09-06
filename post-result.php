@@ -12,7 +12,7 @@ function getDisplay()
 {
 if (isset($_POST['my-name']))
 {
-return "<p>The Value Sent is: </p>" . $_POST['mmy-name'];
+return "<p>The Value Sent is: </p>" . $_POST['my-name'];
 }
 else
 {
