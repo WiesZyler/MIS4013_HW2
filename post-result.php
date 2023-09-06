@@ -17,7 +17,6 @@ return "<p>The Value Sent is: </p>" . $_POST['mmy-name'];
 else
 {
 return "<p>Nothing Posted to the page!</p>";
-<?php
 }
 
 }
